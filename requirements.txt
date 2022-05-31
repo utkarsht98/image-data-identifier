@@ -1,0 +1,4 @@
+cv==1.0.0
+numpy==1.22.3
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+opencv-python==4.5.5.64
